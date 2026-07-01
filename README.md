@@ -7,7 +7,7 @@
 A REST API for managing homebrewing beer batches.  
 Built with **React (TypeScript)**, **Express.js**, **Node.js**, **MongoDB**, and **TailwindCSS**.
 
-## 🍺 Features
+## Features
 
 - Add, edit, delete and view beer batches
 - Store brewing stats (ABV, IBU, OG, FG, EBC, etc.)
