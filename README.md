@@ -1,4 +1,4 @@
-# 🍺 Beer Batch Manager
+# Beer Batch Manager
 
 <p align="center">
    <img src="/screenshot.png" alt="Brewing"/>
@@ -7,14 +7,14 @@
 A REST API for managing homebrewing beer batches.  
 Built with **React (TypeScript)**, **Express.js**, **Node.js**, **MongoDB**, and **TailwindCSS**.
 
-## ✨ Features
+## 🍺 Features
 
-- 📋 Add, edit, delete and view beer batches
-- 📊 Store brewing stats (ABV, IBU, OG, FG, EBC, etc.)
-- 📝 Write notes
-- 🌿 Manage ingredients (malts, hops, yeast, others)
-- ⭐ Rate batches (0–5 stars)
-- 🖼️ Upload and display images
+- Add, edit, delete and view beer batches
+- Store brewing stats (ABV, IBU, OG, FG, EBC, etc.)
+- Write notes
+- Manage ingredients (malts, hops, yeast, others)
+- Rate batches (0–5 stars)
+- Upload and display images
 
 ## License
 
